@@ -1,0 +1,15 @@
+/home/saki/code/cSharpTestApp/bin/Debug/net6.0/cSharpTestApp
+/home/saki/code/cSharpTestApp/bin/Debug/net6.0/cSharpTestApp.deps.json
+/home/saki/code/cSharpTestApp/bin/Debug/net6.0/cSharpTestApp.runtimeconfig.json
+/home/saki/code/cSharpTestApp/bin/Debug/net6.0/cSharpTestApp.dll
+/home/saki/code/cSharpTestApp/bin/Debug/net6.0/ref/cSharpTestApp.dll
+/home/saki/code/cSharpTestApp/bin/Debug/net6.0/cSharpTestApp.pdb
+/home/saki/code/cSharpTestApp/obj/Debug/net6.0/cSharpTestApp.csproj.AssemblyReference.cache
+/home/saki/code/cSharpTestApp/obj/Debug/net6.0/cSharpTestApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/saki/code/cSharpTestApp/obj/Debug/net6.0/cSharpTestApp.AssemblyInfoInputs.cache
+/home/saki/code/cSharpTestApp/obj/Debug/net6.0/cSharpTestApp.AssemblyInfo.cs
+/home/saki/code/cSharpTestApp/obj/Debug/net6.0/cSharpTestApp.csproj.CoreCompileInputs.cache
+/home/saki/code/cSharpTestApp/obj/Debug/net6.0/cSharpTestApp.dll
+/home/saki/code/cSharpTestApp/obj/Debug/net6.0/ref/cSharpTestApp.dll
+/home/saki/code/cSharpTestApp/obj/Debug/net6.0/cSharpTestApp.pdb
+/home/saki/code/cSharpTestApp/obj/Debug/net6.0/cSharpTestApp.genruntimeconfig.cache
